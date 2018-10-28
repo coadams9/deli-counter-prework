@@ -1,6 +1,6 @@
 katz_deli = []
 
-def line
+def line(katz_deli)
   if katz_deli.empty?
     puts "The line is currently empty."
   elsif katz_deli << array[index] 
