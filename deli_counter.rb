@@ -1,5 +1,3 @@
-
-
 def line(katz_deli)
   if katz_deli.empty?
     puts "The line is currently empty."
@@ -9,6 +7,5 @@ def line(katz_deli)
       newline << "#{i + 1}. {person}"
       end
   end
-  
   puts newline
 end
